@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Project</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jun 2026 14:47:09 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 28 Jun 2026 14:47:09 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;Hugo 是一个用 Go 语言编写的静态网站生成器，以&lt;strong&gt;极快的构建速度&lt;/strong&gt;和&lt;strong&gt;简单的安装过程&lt;/strong&gt;著称[reference:0][reference:1]。与很多依赖复杂运行环境的静态生成器不同，Hugo 仅需要一个二进制文件即可运行[reference:2]。本教程将一步步带你完成在 iOS 系统上安装 Hugo、创建博客，并最终通过 GitHub Actions 自动部署到 GitHub Pages 的全过程[reference:3]。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
